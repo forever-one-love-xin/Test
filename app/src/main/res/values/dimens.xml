@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    自定义控件中气泡的大小
+-->
+<resources>
+    <dimen name="pheight">250dp</dimen>
+    <dimen name="pwidth">300dp</dimen>
+</resources>

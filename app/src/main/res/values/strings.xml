@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="write">综合评价</string>
+    <string name="diary">班级教学</string>
+    <string name="create">班级作业</string>
+    <string name="join">班级问答</string>
+    <string name="other">上课结束</string>
+    <string name="user_name">林正东</string>
+    <string name="ping">评论</string>
+</resources>

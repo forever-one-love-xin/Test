@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    自定义控件的所需属性
+    ridus：气泡圆角
+    bubule_bg：气泡的背景
+    direction：气泡的箭头指向，有上下左右，箭头位于气泡的正中心
+-->
+<resources>
+    <declare-styleable name="BubuView">
+        <attr name="ridus" format="dimension" />
+        " format="dimension" />
+        <attr name="bubule_bg" format="color" />
+        <attr name="direction" format="string" />
+        <attr name="arrows_mediate">
+            <enum name="OK" value="0"/>
+            <enum name="NO" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>
